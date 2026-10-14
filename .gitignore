@@ -1,0 +1,16 @@
+# Not published: field photos/slides, old app copy, logs, local tooling
+fieldwork data/
+app_v1_backup/
+*.log
+.claude/
+__pycache__/
+*.pyc
+.venv/
+
+# Raw station downloads and derived files: rebuilt hourly from gwscientific.com
+station_data_survey/*/
+!station_data_survey/tableau/
+station_data_survey/tableau/*
+!station_data_survey/tableau/stations.csv
+station_data_survey/profile_report*
+*.part

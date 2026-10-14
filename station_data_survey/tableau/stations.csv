@@ -1,0 +1,7 @@
+station,name,region,lat,lon,elev_ft
+DYTF20,Permafrost Station DYTF20,Yukon Tanana Uplands,65.8259,-149.5346,1924
+DBSF10,Permafrost Station #10,"Southern Foothills, Brooks Range",66.138185,-150.173455,811
+DBNF22,Permafrost Station DBNF22,"Northern Foothills, Brooks Range",68.628139,-149.592644,2392
+DBNF23,Permafrost Station DBNF23,"Northern Foothills, Brooks Range",68.640056,-149.515086,2967
+DBNF26,Permafrost Station DBNF26,"Northern Foothills, Brooks Range (Atigun Pass)",68.108451,-149.532086,3541
+DBSF27,Permafrost Station DBSF27,"Southern Foothills, Brooks Range",67.684157,-149.726958,1466

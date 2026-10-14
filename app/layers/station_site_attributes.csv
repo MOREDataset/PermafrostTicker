@@ -1,0 +1,7 @@
+station,Permafrost extent (Jorgenson 2008),Ground ice (Jorgenson 2008),Soil texture,Surficial deposit,Thermokarst landforms,Mapped MAAT (C),Ecoregion,IPA permafrost / ground ice (Brown et al.),Ecoregion (level 2),Modeled active layer (cm)
+DYTF20,Continuous (>90%),High,Silty,Eolian: Loess,"Deep Thermokarst Lakes, Basins, Troughs, Pits",-5,Ray Mountains,"Discontinuous (50-90%), low ice (0-10%), thick overburden",Intermontane Boreal,60
+DBSF10,Continuous (>90%),Moderate,Rocky,Colluvial: Hillside,"Thaw Slumps, Gullies, Water Tracks",-6,Ray Mountains,"Discontinuous (50-90%), medium ice (10-20%), thick overburden",Intermontane Boreal,54
+DBNF22,Continuous (>90%),Variable,Rocky,Glacial: Old,"Glacial Thermokarst (TK Lakes, Thaw Slumps)",-10,Brooks Foothills,"Continuous (90-100%), medium ice (10-20%), thick overburden",Arctic Tundra,47
+DBNF23,Continuous (>90%),Variable,Rocky,Glacial: Old,"Glacial Thermokarst (TK Lakes, Thaw Slumps)",-10,Brooks Foothills,"Continuous (90-100%), medium ice (10-20%), thick overburden",Arctic Tundra,49
+DBNF26,Continuous (>90%),Low,Rocky,Bedrock,"Thaw Stable, Ice-poor",-8,Brooks Range,"Continuous (90-100%), low ice (0-10%), thin overburden / bedrock",Arctic Tundra,44
+DBSF27,Continuous (>90%),Variable,Rocky,Glacial: Old,"Glacial Thermokarst (TK Lakes, Thaw Slumps)",-7,Brooks Range,"Continuous (90-100%), low ice (0-10%), thin overburden / bedrock",Arctic Tundra,51
